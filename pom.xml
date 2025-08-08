@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.jsp</groupId>
-	<artifactId>dating</artifactId>
+	<artifactId>ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dating</name>
 	<description>Dealmart ecommerce project for Spring Boot</description>
