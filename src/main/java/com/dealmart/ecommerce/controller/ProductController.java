@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import com.dealmart.ecommerce.model.Product;
 import com.dealmart.ecommerce.service.ProductService;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "*")
 @RestController
 public class ProductController {
 
