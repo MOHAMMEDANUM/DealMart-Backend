@@ -12,7 +12,7 @@ import com.dealmart.ecommerce.model.Login;
 import com.dealmart.ecommerce.service.LoginService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://dealmart-online.netlify.app")
 public class LoginController {
 	
 	@Autowired
